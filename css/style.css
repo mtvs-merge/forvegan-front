@@ -124,7 +124,7 @@
 .navbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
-    font-family: "Font Awesome 5 Free";
+    font-family: 'GongGothicMedium';
     font-weight: 900;
     vertical-align: middle;
     margin-left: 8px;
@@ -175,7 +175,7 @@
     bottom: 0;
     display: flex;
     align-items: center;
-    background: rgba(136, 180, 78, .7);
+   background: rgba(0,0,0,0.4);
     z-index: 1;
 }
 
