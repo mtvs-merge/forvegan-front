@@ -102,7 +102,7 @@
     position: absolute;
     padding: 0;
     width: 170px;
-    height: 135px;
+    /*height: 135px;*/
     top: 0;
     left: 0;
 }
@@ -111,7 +111,7 @@
     margin-right: 35px;
     padding: 25px 0;
     color: var(--dark);
-    font-weight: 600;
+    font-weight: 400;
     text-transform: uppercase;
     outline: none;
 }
