@@ -10,7 +10,12 @@
         }, 1);
     };
     spinner();
-    
+
+    //헤더 서치영역 열기
+    $(".btnS").click(function(){
+        $(".search").slideToggle(500);
+        return false;
+    });
     
     // Initiate the wowjs
     new WOW().init();

@@ -91,6 +91,13 @@
     font-weight: normal;
 }
 
+.btn_write{
+    position: relative;
+  float: right;
+    font-size: 20px;
+    margin-top: -30px;
+}
+
 
 /*** Navbar ***/
 .sticky-top {
@@ -111,7 +118,7 @@
     margin-right: 35px;
     padding: 25px 0;
     color: var(--dark);
-    font-weight: 400;
+    font-weight: 600;
     text-transform: uppercase;
     outline: none;
 }
@@ -123,7 +130,7 @@
 
 .navbar .dropdown-toggle::after {
     border: none;
-    content: "\f107";
+    /*content: "\f107";*/
     font-family: 'GongGothicMedium';
     font-weight: 900;
     vertical-align: middle;
@@ -164,6 +171,12 @@
         transition: .5s;
         opacity: 1;
     }
+}
+
+/** Search **/
+.search label{
+    display: none;
+
 }
 
 
