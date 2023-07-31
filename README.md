@@ -36,5 +36,8 @@
   |      게시판의 메인 홈페이지입니다.     |           |          |
 
 <br>
+<img width="661" alt="KakaoTalk_20230731_072154458" src="https://github.com/mtvs-merge/forvegan-frontend/assets/134986794/42ccb86c-b8ff-4a88-9e1e-e18689a3c18b">
+<img width="793" alt="KakaoTalk_20230731_071533666" src="https://github.com/mtvs-merge/forvegan-frontend/assets/134986794/32f3af92-f5c8-45c7-ba21-32f217bbbdec">
+<img width="704" alt="KakaoTalk_20230731_071430233" src="https://github.com/mtvs-merge/forvegan-frontend/assets/134986794/a25742d8-6ca6-4d09-af46-3c89e45a45ff">
 
 
